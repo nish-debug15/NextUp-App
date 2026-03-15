@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     fontSize: 15,
-    color: '#7A7994',
+    color: '#9A99B4',
     lineHeight: 22,
   },
   goalList: {
